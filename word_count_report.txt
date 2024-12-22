@@ -1,8 +1,0 @@
-Word Count Report
-Total words: 16
-Top 5 most common words:
-is - 3 times
-file - 3 times
-this - 2 times
-a - 2 times
-testing - 1 times
